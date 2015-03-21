@@ -1,9 +1,13 @@
 #livereWriteForm {
-	margin-bottom: 45px;
+	margin-bottom: 0px;
 	padding: 15px;
 	border: none;
 	border-radius: 2px;
 	-webkit-border-radius: 2px;
 	-moz-border-radius: 2px;
 	background: none;
+}
+
+#livereHome {
+	display: none;
 }
