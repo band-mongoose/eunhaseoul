@@ -11,3 +11,7 @@
 #livereHome {
 	display: none;
 }
+
+#liverePlugIn .livere_contentText {
+	height: 40px;
+}
