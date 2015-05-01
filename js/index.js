@@ -152,40 +152,77 @@ var rendererModel = {
     "blogmanager": "new"
   }
 };
+
 var publicModel = {
   "domain": "wix.com",
-  "externalBaseUrl": "http:\/\/eunhaseoul.com",
+  "externalBaseUrl": "http://eunhaseoul.com",
   "pageList": {
-    "masterPage": ["http:\/\/static.wixstatic.com\/sites\/ec9579_5d2aedd0cf61830365448295a9fbde67_31.json.z?v=3", "http:\/\/staticorigin.wixstatic.com\/sites\/ec9579_5d2aedd0cf61830365448295a9fbde67_31.json.z?v=3", "http:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page\/ec9579_5d2aedd0cf61830365448295a9fbde67_31.json"],
-    "pages": [{
-      "pageId": "cee5",
-      "title": "&#47788;&#44396;",
-      "urls": ["http:\/\/static.wixstatic.com\/sites\/ec9579_9797473e312d67438009c4a0abe62639_23.json.z?v=3", "http:\/\/staticorigin.wixstatic.com\/sites\/ec9579_9797473e312d67438009c4a0abe62639_23.json.z?v=3", "http:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page\/ec9579_9797473e312d67438009c4a0abe62639_23.json"]
-    }, {
-      "pageId": "c7zb",
-      "title": "&#44277;&#50672;",
-      "urls": ["http:\/\/static.wixstatic.com\/sites\/ec9579_7766b95423e6f7255613e4bd4912bc30_24.json.z?v=3", "http:\/\/staticorigin.wixstatic.com\/sites\/ec9579_7766b95423e6f7255613e4bd4912bc30_24.json.z?v=3", "http:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page\/ec9579_7766b95423e6f7255613e4bd4912bc30_24.json"]
-    }, {
-      "pageId": "c1yhh",
-      "title": "contact",
-      "urls": ["http:\/\/static.wixstatic.com\/sites\/ec9579_3875f5f4a3ec8ef8454c79f9fe8af830_17.json.z?v=3", "http:\/\/staticorigin.wixstatic.com\/sites\/ec9579_3875f5f4a3ec8ef8454c79f9fe8af830_17.json.z?v=3", "http:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page\/ec9579_3875f5f4a3ec8ef8454c79f9fe8af830_17.json"]
-    }, {
-      "pageId": "ccta",
-      "title": "&#50536;&#48276;",
-      "urls": ["http:\/\/static.wixstatic.com\/sites\/ec9579_5a67dc196f67b84154e4bba1e02eafab_27.json.z?v=3", "http:\/\/staticorigin.wixstatic.com\/sites\/ec9579_5a67dc196f67b84154e4bba1e02eafab_27.json.z?v=3", "http:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page\/ec9579_5a67dc196f67b84154e4bba1e02eafab_27.json"]
-    }, {
-      "pageId": "cfp1",
-      "title": "&#51008;&#54616;&#49436;&#50872;",
-      "urls": ["http:\/\/static.wixstatic.com\/sites\/ec9579_6edb356f158b331dc8d3655a2b194338_29.json.z?v=3", "http:\/\/staticorigin.wixstatic.com\/sites\/ec9579_6edb356f158b331dc8d3655a2b194338_29.json.z?v=3", "http:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page\/ec9579_6edb356f158b331dc8d3655a2b194338_29.json"]
-    }, {
-      "pageId": "mainPage",
-      "title": "home",
-      "urls": ["http:\/\/static.wixstatic.com\/sites\/ec9579_715270b01482bfff1f56f55345add7bd_31.json.z?v=3", "http:\/\/staticorigin.wixstatic.com\/sites\/ec9579_715270b01482bfff1f56f55345add7bd_31.json.z?v=3", "http:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page\/ec9579_715270b01482bfff1f56f55345add7bd_31.json"]
-    }],
+    "masterPage": [
+      "http://static.wixstatic.com/sites/ec9579_25204ffa83e3a6ad7476289185e5a715_35.json.z?v=3",
+      "http://staticorigin.wixstatic.com/sites/ec9579_25204ffa83e3a6ad7476289185e5a715_35.json.z?v=3",
+      "http://fallback.wix.com/wix-html-editor-pages-webapp/page/ec9579_25204ffa83e3a6ad7476289185e5a715_35.json"
+    ],
+    "pages": [
+      {
+        "pageId": "ccta",
+        "title": "앨범",
+        "urls": [
+          "http://static.wixstatic.com/sites/ec9579_73e76f3ec610cbd56036e2ef1358e726_33.json.z?v=3",
+          "http://staticorigin.wixstatic.com/sites/ec9579_73e76f3ec610cbd56036e2ef1358e726_33.json.z?v=3",
+          "http://fallback.wix.com/wix-html-editor-pages-webapp/page/ec9579_73e76f3ec610cbd56036e2ef1358e726_33.json"
+        ]
+      },
+      {
+        "pageId": "cfp1",
+        "title": "은하서울",
+        "urls": [
+          "http://static.wixstatic.com/sites/ec9579_62e4171aef62ec3be1e9631fb762e4cc_33.json.z?v=3",
+          "http://staticorigin.wixstatic.com/sites/ec9579_62e4171aef62ec3be1e9631fb762e4cc_33.json.z?v=3",
+          "http://fallback.wix.com/wix-html-editor-pages-webapp/page/ec9579_62e4171aef62ec3be1e9631fb762e4cc_33.json"
+        ]
+      },
+      {
+        "pageId": "cee5",
+        "title": "몬구",
+        "urls": [
+          "http://static.wixstatic.com/sites/ec9579_9797473e312d67438009c4a0abe62639_23.json.z?v=3",
+          "http://staticorigin.wixstatic.com/sites/ec9579_9797473e312d67438009c4a0abe62639_23.json.z?v=3",
+          "http://fallback.wix.com/wix-html-editor-pages-webapp/page/ec9579_9797473e312d67438009c4a0abe62639_23.json"
+        ]
+      },
+      {
+        "pageId": "c7zb",
+        "title": "공연",
+        "urls": [
+          "http://static.wixstatic.com/sites/ec9579_ca952b57fc822f7c0be149bf4abe2691_35.json.z?v=3",
+          "http://staticorigin.wixstatic.com/sites/ec9579_ca952b57fc822f7c0be149bf4abe2691_35.json.z?v=3",
+          "http://fallback.wix.com/wix-html-editor-pages-webapp/page/ec9579_ca952b57fc822f7c0be149bf4abe2691_35.json"
+        ]
+      },
+      {
+        "pageId": "mainPage",
+        "title": "home",
+        "urls": [
+          "http://static.wixstatic.com/sites/ec9579_e0bcc41f865470f5d74e2e3821973f03_33.json.z?v=3",
+          "http://staticorigin.wixstatic.com/sites/ec9579_e0bcc41f865470f5d74e2e3821973f03_33.json.z?v=3",
+          "http://fallback.wix.com/wix-html-editor-pages-webapp/page/ec9579_e0bcc41f865470f5d74e2e3821973f03_33.json"
+        ]
+      },
+      {
+        "pageId": "c1yhh",
+        "title": "contact",
+        "urls": [
+          "http://static.wixstatic.com/sites/ec9579_3875f5f4a3ec8ef8454c79f9fe8af830_17.json.z?v=3",
+          "http://staticorigin.wixstatic.com/sites/ec9579_3875f5f4a3ec8ef8454c79f9fe8af830_17.json.z?v=3",
+          "http://fallback.wix.com/wix-html-editor-pages-webapp/page/ec9579_3875f5f4a3ec8ef8454c79f9fe8af830_17.json"
+        ]
+      }
+    ],
     "mainPageId": "mainPage"
   },
-  "timeSincePublish": 202585387
+  "timeSincePublish": 28209
 };
+
 var googleAnalytics = "";
 var googleRemarketing = "";
 var facebookRemarketing = "";
