@@ -170,6 +170,3 @@ var mobileAdData = {};
 var usersDomain = "https://users.wix.com/wix-users";
 var santaBase = '';
 var clientSideRender = true;
-$(function () {
-  $("#my-content").delay(16000).fadeOut(0);
-});
