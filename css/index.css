@@ -1,0 +1,30 @@
+.wixAds {
+	display: none;
+	visibility: hidden;
+}
+
+#WIX_ADS {
+	display: none;
+	visibility: hidden;
+}
+
+@media screen and (min-width: 0px) and (max-width: 400px) {
+	#my-content {
+		display: block;
+		position: absolute;
+		width: 100%;
+		height: 30px;
+		z-index: 9999;
+		background-color: #262626;
+		top: 0;
+		text-align: center;
+		color: #fff;
+		font-size: 18px;
+	}
+}
+
+@media screen and (min-width: 401px) and (max-width: 1024px) {
+	#my-content {
+		display: none;
+	}
+}
