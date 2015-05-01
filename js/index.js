@@ -191,21 +191,21 @@ var publicModel = {
         ]
       },
       {
-        "pageId": "c7zb",
-        "title": "공연",
-        "urls": [
-          "http://static.wixstatic.com/sites/ec9579_ca952b57fc822f7c0be149bf4abe2691_35.json.z?v=3",
-          "http://staticorigin.wixstatic.com/sites/ec9579_ca952b57fc822f7c0be149bf4abe2691_35.json.z?v=3",
-          "http://fallback.wix.com/wix-html-editor-pages-webapp/page/ec9579_ca952b57fc822f7c0be149bf4abe2691_35.json"
-        ]
-      },
-      {
         "pageId": "mainPage",
         "title": "home",
         "urls": [
           "http://static.wixstatic.com/sites/ec9579_e0bcc41f865470f5d74e2e3821973f03_33.json.z?v=3",
           "http://staticorigin.wixstatic.com/sites/ec9579_e0bcc41f865470f5d74e2e3821973f03_33.json.z?v=3",
           "http://fallback.wix.com/wix-html-editor-pages-webapp/page/ec9579_e0bcc41f865470f5d74e2e3821973f03_33.json"
+        ]
+      },
+      {
+        "pageId": "c7zb",
+        "title": "공연",
+        "urls": [
+          "http://static.wixstatic.com/sites/ec9579_198e7e476c8b239b1e7ebd1d1b8ce86f_37.json.z?v=3",
+          "http://staticorigin.wixstatic.com/sites/ec9579_198e7e476c8b239b1e7ebd1d1b8ce86f_37.json.z?v=3",
+          "http://fallback.wix.com/wix-html-editor-pages-webapp/page/ec9579_198e7e476c8b239b1e7ebd1d1b8ce86f_37.json"
         ]
       },
       {
@@ -220,7 +220,7 @@ var publicModel = {
     ],
     "mainPageId": "mainPage"
   },
-  "timeSincePublish": 28209
+  "timeSincePublish": 11170
 };
 
 var googleAnalytics = "";
