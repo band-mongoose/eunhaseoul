@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+             <!--
+    Important Note About This Website's SEO
+
+    Find the SEO content of this site's homepage via http://ko.wix.com/lpviral/ko900viral?_escaped_fragment_=
+    (That is where search engines like Google go to read your homepage's content.)
+
+    
+
+    For more information about Ajax Crawling technology, read Google's explanation here: https://developers.google.com/webmasters/ajax-crawling/
+-->
+
+    
+                <meta charset="utf-8"/>
+<title>ko900viral</title>
+<meta name="fb_admins_meta_tag" content=""/>
+<link rel="shortcut icon" href="http://www.wix.com/favicon.ico" type="image/x-icon"/>
+<link rel="apple-touch-icon" href="http://www.wix.com/favicon.ico" type="image/x-icon"/>
+<link rel="canonical" href="http://ko.wix.com/lpviral/ko900viral"/>
+    <meta http-equiv="X-Wix-Renderer-Server" content="app26.aus"/>
+<meta http-equiv="X-Wix-Meta-Site-Id" content="2123134f-0eca-4b1e-b860-b07235775e97"/>
+<meta http-equiv="X-Wix-Application-Instance-Id" content="bb6af9bb-2714-42ff-8561-59fe3ec59db3"/>
+<meta http-equiv="X-Wix-Published-Version" content="1"/>
+
+<meta http-equiv="etag" content="09b7feec38eaf8e4314cb7a8cb8ed784"/>
+<meta name="robots" content="noindex"/>
+<meta http-equiv="content-language" content="en"/>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<link rel="alternate" hreflang="ko" href="http://ko.wix.com/lpviral/ko900viral"/>
+<meta property="og:title" content="ko900viral"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://ko.wix.com/lpviral/ko900viral"/>
+<meta property="og:image" content="http://static.wixstatic.com/media/de5204_ee9c9a440e584ba19011292e8d36c76a.jpg"/>
+<meta property="og:site_name" content="ko900viral"/>
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE"/>
+
+<meta id="wixMobileViewport" name="viewport" content="minimum-scale=0.25, maximum-scale=1.2"/>
+
+
+        
+
+            <script>
+            // BEAT MESSAGE
+    try {
+        window.wixBiSession = {
+            initialTimestamp : Date.now(),
+            viewerSessionId: 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c)
+                    { var r = Math.random()*16|0, v = c == 'x' ? r : (r&0x3|0x8); return v.toString(16); }
+            )
+        };
+        (new Image()).src = 'http://frog.wix.com/bt?src=29&evid=3&pn=1&et=1&v=3.0&vsi=' + wixBiSession.viewerSessionId +
+                '&url=' + encodeURIComponent(location.href.replace(/^http(s)?:\/\/(www\.)?/, '')) +
+                '&isp=1&st=1&ts=0&c=' + wixBiSession.initialTimestamp;
+    } catch (e){}
+    // BEAT MESSAGE END
+</script>    
+    
+
+    <!-- META DATA -->
+<script type="text/javascript">
+
+    var serviceTopology = {"serverName":"app26.aus","cacheKillerVersion":"1","staticServerUrl":"http://static.parastorage.com/","usersScriptsRoot":"http://static.parastorage.com/services/wix-users/2.487.0","biServerUrl":"http://frog.wix.com/","userServerUrl":"http://users.wix.com/","billingServerUrl":"http://premium.wix.com/","mediaRootUrl":"http://static.wixstatic.com/","logServerUrl":"http://frog.wix.com/plebs","monitoringServerUrl":"http://TODO/","usersClientApiUrl":"https://users.wix.com/wix-users","publicStaticBaseUri":"http://static.parastorage.com/services/wix-public/1.160.0","basePublicUrl":"http://www.wix.com/","postLoginUrl":"http://www.wix.com/my-account","postSignUpUrl":"http://www.wix.com/new/account","baseDomain":"wix.com","staticMediaUrl":"http://static.wixstatic.com/media","staticAudioUrl":"http://storage.googleapis.com/static.wixstatic.com/mp3","emailServer":"http://assets.wix.com/common-services/notification/invoke","blobUrl":"http://static.parastorage.com/wix_blob","htmlEditorUrl":"http://editor.wix.com/html","siteMembersUrl":"https://users.wix.com/wix-sm","scriptsLocationMap":{"wixapps":"http://static.parastorage.com/services/wixapps/2.461.3","tpa":"http://static.parastorage.com/services/tpa/2.1027.0","santa-resources":"http://static.parastorage.com/services/santa-resources/1.0.0","bootstrap":"http://static.parastorage.com/services/bootstrap/2.1144.37","ck-editor":"http://static.parastorage.com/services/ck-editor/1.87.2","it":"http://static.parastorage.com/services/experiments/it/1.37.0","skins":"http://static.parastorage.com/services/skins/2.1144.37","core":"http://static.parastorage.com/services/core/2.1144.37","sitemembers":"http://static.parastorage.com/services/sm-js-sdk/1.31.0","automation":"http://static.parastorage.com/services/automation/1.23.0","web":"http://static.parastorage.com/services/web/2.1144.37","ecommerce":"http://static.parastorage.com/services/ecommerce/1.190.0","hotfixes":"http://static.parastorage.com/services/experiments/hotfixes/1.15.0","langs":"http://static.parastorage.com/services/langs/2.541.0","santa-versions":"http://static.parastorage.com/services/santa-versions/1.248.0","ut":"http://static.parastorage.com/services/experiments/ut/1.2.0"},"developerMode":false,"productionMode":true,"staticServerFallbackUrl":"https://sslstatic.wix.com/","userFilesUrl":"http://static.parastorage.com/","staticHTMLComponentUrl":"http://ko.wix.com.usrfiles.com/","secured":false,"ecommerceCheckoutUrl":"https://www.safer-checkout.com/","premiumServerUrl":"https://premium.wix.com/","appRepoUrl":"http://assets.wix.com/wix-lists-ds-webapp","digitalGoodsServerUrl":"http://dgs.wixapps.net/","wixCloudBaseDomain":"cloud.wix.com","publicStaticsUrl":"http://static.parastorage.com/services/wix-public/1.160.0","staticDocsUrl":"http://media.wix.com/ugd"};
+        var santaModels = true;
+    var rendererModel = {"metaSiteId":"2123134f-0eca-4b1e-b860-b07235775e97","siteInfo":{"documentType":"WixSite","applicationType":"HtmlWeb","siteId":"bb6af9bb-2714-42ff-8561-59fe3ec59db3","siteTitleSEO":"ko900viral"},"clientSpecMap":{"1":{"type":"wixapps","applicationId":1,"appDefinitionId":"e4c4a4fb-673d-493a-9ef1-661fa3823ad7","datastoreId":"1368c89d-76ae-883a-62e3-03ac901f486e","packageName":"menu","state":"Initialized","widgets":{"1660c5f3-b183-4e6c-a873-5d6bbd918224":{"widgetId":"1660c5f3-b183-4e6c-a873-5d6bbd918224","defaultHeight":100,"defaultWidth":400}}},"13":{"type":"sitemembers","applicationId":13,"collectionType":"Open","smcollectionId":"1368c89d-7b66-eb6d-dfc7-3ece9a11bd18"},"2":{"type":"appbuilder","applicationId":2,"appDefinitionId":"3d590cbc-4907-4cc4-b0b1-ddf2c5edf297","instanceId":"1368c89d-7c32-9bd3-3f88-6b44c4d8f65d","state":"Initialized"}},"premiumFeatures":["HasDomain","NoAdsInSocialSites","ShowWixWhileLoading","AdsFree"],"geo":"KOR","languageCode":"ko","previewMode":false,"userId":"efa48af6-8900-450e-af01-e170dc4b5a78","siteMetaData":{"preloader":{"uri":"de5204_ee9c9a440e584ba19011292e8d36c76a.jpg"},"adaptiveMobileOn":false,"quickActions":{"socialLinks":[],"colorScheme":"dark","configuration":{"quickActionsMenuEnabled":false,"navigationMenuEnabled":true,"phoneEnabled":false,"emailEnabled":false,"addressEnabled":false,"socialLinksEnabled":false}},"contactInfo":{"companyName":"","phone":"","fax":"","email":"","address":""}},"runningExperiments":{"autogeneratedshapesskins":"new","ngcore":"new","sandboxiframeineditor":"new","lang_nl":"new","wixappsgalleries":"new","ecomgalleries":"new","disablehorizontalmenu":"new","lazyprovision":"new","atntfixlists":"new","mobileactionsmenu":"new","exitmobilemode":"new","workaroundsaveddeadcompskin":"new","nougcanalytics":"new","appbuilderdeletetype":"new","sitepagesvalidation":"new","redirectfeature301data":"new","linkfixeroverride":"new","redirectfeature301":"new","lazyprovisiontemp":"new","animation3dfix":"new","landingpagesupport":"new","scriptloaderjsretries":"new","wixappstranslation":"new","subscribeformsendnewsletter":"new","lesserwidthissue":"new","appbuildertags":"new","sitenavigationrefactor":"new","blogrss":"new","animationnewbehaviors":"new","customsitemenu":"new","blogmanager":"new"}};
+    var publicModel = {"domain":"wix.com","externalBaseUrl":"http:\/\/ko.wix.com\/lpviral\/ko900viral","pageList":{"masterPage":["http:\/\/static.wixstatic.com\/sites\/efa48a_3cb1d0c7b2d06234db7835ffe633515a_1.json.z?v=3","http:\/\/staticorigin.wixstatic.com\/sites\/efa48a_3cb1d0c7b2d06234db7835ffe633515a_1.json.z?v=3","http:\/\/ko.wix.com\/sites\/efa48a_3cb1d0c7b2d06234db7835ffe633515a_1.json.z?v=3","http:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page\/efa48a_3cb1d0c7b2d06234db7835ffe633515a_1.json"],"pages":[{"pageId":"mainPage","title":"Home","urls":["http:\/\/static.wixstatic.com\/sites\/efa48a_549d1ab1dad246d22b493b6747f63b15_1.json.z?v=3","http:\/\/staticorigin.wixstatic.com\/sites\/efa48a_549d1ab1dad246d22b493b6747f63b15_1.json.z?v=3","http:\/\/ko.wix.com\/sites\/efa48a_549d1ab1dad246d22b493b6747f63b15_1.json.z?v=3","http:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page\/efa48a_549d1ab1dad246d22b493b6747f63b15_1.json"]}],"mainPageId":"mainPage"},"timeSincePublish":31877217591};
+    
+
+
+    var googleAnalytics = "UA-2117194-1"
+    ;
+
+    var googleRemarketing = "";
+    var facebookRemarketing = "";
+
+</script>
+
+
+    <meta name="fragment" content="!"/>
+    <!-- DATA -->
+<script type="text/javascript">
+    var adData = {};
+    var mobileAdData = {};
+    var usersDomain = "https://users.wix.com/wix-users";
+        </script>
+
+
+    <style type="text/css">
+    .hiddenTillReady {
+        opacity: 0;
+        zoom: 1;
+        filter: alpha(opacity=0);
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    }
+</style>
+                
+         <script type="text/javascript">
+<!--
+if (Math.min(screen.width, screen.height) <= 599) {
+document.location = "http://www.wix.com/lplang/mobile-ko-2";
+}
+//-->
+</script>
+
+                        <script type="text/javascript">
+    var santaBase = '';
+        var clientSideRender = true;
+    </script>
+<script src="http://static.parastorage.com/services/third-party/requirejs/2.1.15/require.min.js"></script>
+<script src="http://static.parastorage.com/services/santa-versions/1.248.0/main-r.js"></script>
+<link rel="stylesheet" href="http://static.parastorage.com/services/santa-versions/1.248.0/viewer.css">
+
+    </head>
+<body>
+                <div id="SITE_CONTAINER"></div>
+    
+    
+        
+    
+<!-- No Footer -->
+                        <div class="hiddenTillReady hiddenTillReadyBottom">
+        
+        <!-- Start Naver Common script for LPs -->
+<script type="text/javascript" src="http://wcs.naver.net/wcslog.js"></script> 
+<script type="text/javascript"> 
+if (!wcs_add) var wcs_add={};
+wcs_add["wa"] = "s_2adf43010f5f";
+if (!_nasa) var _nasa={};
+wcs.inflow("wix.com");
+wcs_do(_nasa);
+</script>
+<!-- End Naver Common script for LPs -->
+
+                </div>
+                            <div class="hiddenTillReady hiddenTillReadyBottom">
+        
+        <!-- Google Code for general code -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1041825691;
+var google_conversion_label = "FYMYCO-T6gMQm__j8AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1041825691/?value=0&amp;label=FYMYCO-T6gMQm__j8AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+                </div>
+            
+    
+    
+            <![if !IE]>
+    <!--googleoff: index-->
+    <audio style="display:none">
+        <source src="http://static.wix.com/server/misc/index.html" type="audio/mp3"/>
+    </audio>
+    <!--googleon: index-->
+    <![endif]>
+    
+    
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=15';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>
